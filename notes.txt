@@ -1,0 +1,2 @@
+yarn add firebase
+yarn add node-sass@^5.0.0
