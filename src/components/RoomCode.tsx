@@ -1,4 +1,3 @@
-
 import copyImg from '../assets/images/copy.svg';
 import '../styles/room-code.scss';
 
