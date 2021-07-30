@@ -28,7 +28,6 @@ type Question = {
     content: string;
     isAnswered: string;
     isHighlighted: string;
-
 }
 
 type RoomParams = {
